@@ -29,7 +29,7 @@ If you are going to put your blog in public, you'll want to [set up an Admin acc
 
 ## Install Sofa
 
-    git clone git://github.com/jchris/sofa.git
+    git clone https://github.com/thushara35/sofa.git
     cd sofa
     couchapp push . http://user:pass@127.0.0.1:5984/myblogdb 
   
